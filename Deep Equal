@@ -1,7 +1,7 @@
 function deepEqual(objA, objB) {
     if (objA === objB) {
         return true;
-    }
+}
 
     if (
         typeof objA !== "object" ||
